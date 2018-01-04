@@ -43,7 +43,7 @@
                         I am adding this extra line
                  </p>
 <p>
-This is the second line to be added by Ruby
+This is the second line to be added by Matko
 </p>
 		<ul>
 			<li>
