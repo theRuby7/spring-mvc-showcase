@@ -40,10 +40,10 @@
 			See the <code>org.springframework.samples.mvc.simple</code> package for the @Controller code
 		</p>
                  <p>
-                        I am adding this extra line
+                        Mario @Ruby
                  </p>
 <p>
-This is the second line to be added by Matko
+Ovo je test za prezentaciju
 </p>
 		<ul>
 			<li>
