@@ -43,11 +43,10 @@
                         Mario @Ruby
                  </p>
 <p>
-<<<<<<< HEAD
+===========================
 Ovo je test za prezentaciju
-=======
-This is the second line to be added by Matko djete slatko
->>>>>>> 0b35697de795b6be6431fc9c950dc569f0978533
+===========================
+
 </p>
 		<ul>
 			<li>
