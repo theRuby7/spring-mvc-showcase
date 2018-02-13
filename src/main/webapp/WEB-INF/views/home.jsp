@@ -40,7 +40,7 @@
 			See the <code>org.springframework.samples.mvc.simple</code> package for the @Controller code
 		</p>
                  <p>
-                        Igor Antolic
+                        Marin Strazanac
                  </p>
 <p>
 ===========================
