@@ -40,7 +40,11 @@
 			See the <code>org.springframework.samples.mvc.simple</code> package for the @Controller code
 		</p>
                  <p>
+<<<<<<< HEAD
                         Igor Antolic!
+=======
+                        Marin Strazanac
+>>>>>>> 4e73334780963f6cd382a1f5ca05abf2bd3c4c29
                  </p>
 <p>
 ===========================
